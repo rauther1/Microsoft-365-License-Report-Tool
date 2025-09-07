@@ -1,0 +1,6 @@
+UserPrincipalName,DisplayName,Licenses
+alice@contoso.com,Alice Johnson,"Office365_E3, PowerBI_Pro"
+bob@contoso.com,Bob Smith,Office365_E1
+carol@contoso.com,Carol Davis,"Office365_E5, Teams_Premium"
+david@contoso.com,David Lee,None
+emma@contoso.com,Emma Wilson,Office365_E3
